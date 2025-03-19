@@ -3,7 +3,7 @@ This repository has been developed to complete the evaluation task of GSOC 2025 
 `Estimating the energy cost of ML scientific software`. 
 <br>
 Kindly follow the below steps to reproduce the results using codecarbon.
-<br>
+
 Clone the Repository
 1. ```git clone https://github.com/abhigarg15/GSOC2025.git```
 
